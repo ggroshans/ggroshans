@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garth Groshans II, PhD
-- ⛰️ Educational backgorund in Earth Sciences
+- ⛰️ Educational background in Earth Sciences
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 💻 I’m looking to collaborate on open source projects or web applications
