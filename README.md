@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Garth Groshans II, PhD
+- 👋  &nbsp;Hi, I’m Garth Groshans II, PhD
 - ⛰️  Educational background in Earth Sciences
 - 🌱  Actively learning JavaScript, React, and Django
 - 💻  I’m looking to collaborate on web applications or open source
