@@ -1,8 +1,8 @@
 - 👋  &nbsp;&nbsp;Hi, I’m Garth Groshans II, PhD
-- ⛰️  Educational background in Earth Sciences
-- 🌱  Actively learning JavaScript, React, and Django
-- 💻  I’m looking to collaborate on web applications or open source
-- 📫  How to reach me: garthgroshansii@gmail.com
+- ⛰️  &nbsp;&nbsp;Educational background in Earth Sciences
+- 🌱  &nbsp;&nbsp;Actively learning JavaScript, React, and Django
+- 💻  &nbsp;&nbsp;I’m looking to collaborate on web applications or open source
+- 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com
 
 <!---
 ggroshansii/ggroshansii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
