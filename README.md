@@ -1,7 +1,7 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth Groshans II, PhD <br/>
 ⛰️  &nbsp;&nbsp;Educational background in Earth Sciences <br/>
-🌱  &nbsp;&nbsp;Actively learning TypeScript, Next.js, C#, .NET <br/>
-💻  &nbsp;&nbsp;I’m looking to collaborate on web applications / open source <br/>
+💻  &nbsp;&nbsp;Current stack: TypeScript, Next.js, C#, .NET<br/>
+🌱  &nbsp;&nbsp;Actively learning .NET, Azure <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com <br/>
 
 
