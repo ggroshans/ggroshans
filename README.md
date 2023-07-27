@@ -1,7 +1,8 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth Groshans II, PhD! <br/>
 ⛰️  &nbsp;&nbsp;Educational background in Earth Sciences and Geospatial Technology <br/>
 💻  &nbsp;&nbsp;Frontend Skills: TypeScript, Next.js, React, Vue.js, GraphQL<br/>
-🧑‍💻  &nbsp;&nbsp;Backend Skills: .NET, Django, Flask <br/>
+🧑‍💻  &nbsp;&nbsp;Backend Skills: Django, Flask <br/>
+🌱 &nbsp;&nbsp; Currently learning Angular, .NET <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com <br/>
 
 
