@@ -1,6 +1,6 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth! <br/>
 ⛰️  &nbsp;&nbsp;Educational background in Earth Sciences <br/>
-🌱 &nbsp;&nbsp;Currently learning Angular / .NET stack <br/>
+🌱 &nbsp;&nbsp;Currently learning Angular, .NET, SQL <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com <br/>
 
 
