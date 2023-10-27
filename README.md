@@ -1,5 +1,5 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth! <br/>
-⛰️  &nbsp;&nbsp;Educational background in Earth Sciences <br/>
+⛰️  &nbsp;&nbsp;PhD in Soil Science <br/>
 🌱 &nbsp;&nbsp;Currently learning Angular, C#/.NET, SQL <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com <br/>
 
