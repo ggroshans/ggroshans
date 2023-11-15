@@ -1,6 +1,6 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth! <br/>
 🌱  &nbsp;&nbsp;PhD in Soil Science <br/>
-💻  &nbsp;&nbsp;Currently learning Angular, C#/.NET, SQL <br/>
+💻  &nbsp;&nbsp;Currently growing in Angular, C#/.NET, SQL <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansii@gmail.com <br/>
 
 
