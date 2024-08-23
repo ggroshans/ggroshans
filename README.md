@@ -1,6 +1,7 @@
 👋  &nbsp;&nbsp;Hi, I’m Garth <br/>
 🌱  &nbsp;&nbsp;PhD in Earth Sciences <br/>
-💻  &nbsp;&nbsp;Currently evolving in .NET, Angular, Databases, and Azure <br/>
+👨‍💻  &nbsp;&nbsp;Software Engineer for a logistics company <br/>
+💻  &nbsp;&nbsp;Currently evolving in C#, Angular, Databases, and Azure <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansjr@gmail.com <br/>
 
 
