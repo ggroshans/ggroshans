@@ -1,5 +1,5 @@
-👋  &nbsp;&nbsp;Hi, I’m Garth <br/>
- 🌎 &nbsp;&nbsp;Educational background in Earth Sciences <br/>
+👋  &nbsp;&nbsp;Hey, I’m Garth <br/>
+🌎 &nbsp;&nbsp;Educational background in Earth Sciences <br/>
 💻  &nbsp;&nbsp;Software Engineer in Logistics <br/>
 🌱 &nbsp;&nbsp;Currently growing in C#, Angular, Databases, and Azure <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansjr@gmail.com <br/>
