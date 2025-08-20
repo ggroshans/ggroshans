@@ -1,7 +1,6 @@
 👋  &nbsp;&nbsp;Hey, I’m Garth <br/>
 🌎 &nbsp;&nbsp;Educational background in Earth Sciences <br/>
-💻  &nbsp;&nbsp;Software Engineer in Logistics <br/>
-🌱 &nbsp;&nbsp;Currently growing in ASP.NET, Angular, and Azure <br/>
+💻  &nbsp;&nbsp;Software Engineer in .NET, Angular, Azure and more <br/>
 📫  &nbsp;&nbsp;How to reach me: garthgroshansjr@gmail.com <br/>
 
 
