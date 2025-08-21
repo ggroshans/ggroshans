@@ -3,10 +3,8 @@
 👨‍💻 &nbsp;&nbsp;Software Engineer in **.NET, Angular, Azure, SQL Server**  
 💻 &nbsp;&nbsp;Also experienced with **React, Vue, Node, Python (Django/Flask), GraphQL**  
 🚀 &nbsp;&nbsp;Currently exploring **algorithms and system design**  
-🎸 &nbsp;&nbsp;Beyond code: **jazz guitar, sketching, reading, burritos**  
-📫 &nbsp;&nbsp;Reach me at: **garthgroshansjr@gmail.com**  
-
-
+🏕️ &nbsp;&nbsp;Beyond code: 🎸&nbsp;  🎨 &nbsp; 📚&nbsp;  🌯 <br/>
+📫 &nbsp;&nbsp;Reach me at: **garthgroshansjr@gmail.com** 
 
 <!---
 ggroshansii/ggroshansii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
