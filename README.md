@@ -7,7 +7,7 @@
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
 <details open>
-  <summary><b>🚀 Featured Projects</b></summary>
+  <summary><h3>🚀 Featured Projects</h3></summary>
 <sub>────────────────────────────────────────────</sub>
   
 > **🎷 Random Jazz Album Discovery (2025)**  
@@ -21,7 +21,7 @@
 > <img src="https://img.shields.io/badge/NgRx-BA2BD2?logo=ngrx&logoColor=white" />
 > <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 > <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" />
-<br/>
+
 <sub>────────────────────────────────────────────</sub>
 
 > **🎬 Pick-A-Flick (2023)**  
@@ -33,7 +33,7 @@
 > <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
 > <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 > <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-<br/>
+
 <sub>────────────────────────────────────────────</sub>
 
 > **🪴 Flourish Garden Planner (2021)**  
