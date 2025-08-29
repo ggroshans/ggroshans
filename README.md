@@ -1,14 +1,15 @@
-**👋 Hey, I’m Garth**  
+# 👋 Hey, I’m Garth 
 🌎 Background in **Earth Sciences**  
 👨‍💻 Software Engineer in **.NET, Angular, Azure, SQL Server**  
 💻 Also experienced with **React, Vue, Node, Python (Django/Flask), GraphQL**  
-🚀 Exploring **Algorithms & System Design**  
+🤓 Currently exploring **Algorithms & System Design**  
 🏕️ Beyond code: 🎸 🎨 📚 🌯  
 📫 Reach me at: **garthgroshansjr@gmail.com**
+<br/><br/>
 
----
+<h2>🚀 Featured Projects</h2>
+<sub>────────────────────────────────────────────</sub>
 
-## 🚀 Featured Projects
 
 > **🎷 Random Jazz Album Discovery (2025)**  
 > [Frontend (Angular)](https://github.com/ggroshans/fe-angular-random-jazz-album) • [Backend (.NET API)](https://github.com/ggroshans/api-dotnet-random-jazz-album)  
@@ -21,8 +22,8 @@
 > <img src="https://img.shields.io/badge/NgRx-BA2BD2?logo=ngrx&logoColor=white" />
 > <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 > <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" />
-
 <br/>
+<sub>────────────────────────────────────────────</sub>
 
 > **🎬 Pick-A-Flick (2023)**  
 > [Monorepo (Vue/Flask)](https://github.com/ggroshans/flask-vue-pick-a-flick)  
@@ -33,8 +34,8 @@
 > <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
 > <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 > <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-
 <br/>
+<sub>────────────────────────────────────────────</sub>
 
 > **🪴 Flourish Garden Planner (2021)**  
 > [Monorepo (Django/React)](https://github.com/ggroshans/django-react-garden-app) • [Video Walkthrough](http://bit.ly/46wphbz)  
