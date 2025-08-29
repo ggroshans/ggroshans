@@ -6,11 +6,9 @@
 🏕️ Beyond code: 🎸 🎨 📚 🌯  
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
-<details open>
-  <summary><h3>🚀 Featured Projects</h3></summary>
-<sub>────────────────────────────────────────────</sub>
-  
-> **🎷 Random Jazz Album Discovery (2025)**  
+<sub>────────────────────────────────────────────</sub> 
+
+> **🎷 Jazz Album Discovery (2025)**  
 > [Frontend (Angular)](https://github.com/ggroshans/fe-angular-random-jazz-album) • [Backend (.NET API)](https://github.com/ggroshans/api-dotnet-random-jazz-album)  
 > <sub>Daily random jazz album with Spotify ingest + GPT metadata enrichment stored in a persistent DB.</sub>  
 > <br/>
@@ -45,6 +43,6 @@
 > <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white&label=Django%20REST%20Framework" />
 > <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
   <!-- your project cards here -->
-</details>
+
 
 
