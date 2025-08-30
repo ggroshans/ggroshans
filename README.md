@@ -8,7 +8,7 @@
 <br/><br/>
 <sub>────────────────────────────────────────────</sub> 
 
-> **🎷 Jazz Album Discovery (2025)**  
+**🎷 Jazz Album Discovery (2025)**  
 > [Frontend (Angular)](https://github.com/ggroshans/fe-angular-random-jazz-album) • [Backend (.NET API)](https://github.com/ggroshans/api-dotnet-random-jazz-album)  
 > <sub>Daily random jazz album with Spotify ingest + GPT metadata enrichment stored in a persistent DB.</sub>  
 > <br/>
@@ -22,7 +22,7 @@
 
 <sub>────────────────────────────────────────────</sub>
 
-> **🎬 Pick-A-Flick (2023)**  
+**🎬 Pick-A-Flick (2023)**  
 > [Monorepo (Vue/Flask)](https://github.com/ggroshans/flask-vue-pick-a-flick)  
 > <sub>Tinder-style movie discovery: judge by plot first, reveal title/poster on swipe.</sub>  
 > <br/>
@@ -34,7 +34,7 @@
 
 <sub>────────────────────────────────────────────</sub>
 
-> **🪴 Flourish Garden Planner (2021)**  
+**🪴 Flourish Garden Planner (2021)**  
 > [Monorepo (Django/React)](https://github.com/ggroshans/django-react-garden-app) • [Video Walkthrough](http://bit.ly/46wphbz)  
 > <sub>Plan garden layouts, manage crops, and use a canvas-based sketch tool with companion planting guides.</sub>  
 > <br/>
