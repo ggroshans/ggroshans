@@ -6,8 +6,7 @@
 🏕️ Beyond code: 🎸 🎨 📚 🌯  
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
-<sub>────────────────────────────────────────────</sub> 
-
+<sub>───────────────────────────────────────────────────</sub><br/>
 **🎷 Jazz Album Discovery (2025)**  
 > [Frontend (Angular)](https://github.com/ggroshans/fe-angular-random-jazz-album) • [Backend (.NET API)](https://github.com/ggroshans/api-dotnet-random-jazz-album)  
 > <sub>Daily random jazz album with Spotify ingest + GPT metadata enrichment stored in a persistent DB.</sub>  
@@ -20,8 +19,7 @@
 > <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 > <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" />
 
-<sub>────────────────────────────────────────────</sub>
-
+<sub>───────────────────────────────────────────────────</sub><br/>
 **🎬 Pick-A-Flick (2023)**  
 > [Monorepo (Vue/Flask)](https://github.com/ggroshans/flask-vue-pick-a-flick)  
 > <sub>Tinder-style movie discovery: judge by plot first, reveal title/poster on swipe.</sub>  
@@ -32,8 +30,7 @@
 > <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 > <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
 
-<sub>────────────────────────────────────────────</sub>
-
+<sub>───────────────────────────────────────────────────</sub><br/>
 **🪴 Flourish Garden Planner (2021)**  
 > [Monorepo (Django/React)](https://github.com/ggroshans/django-react-garden-app) • [Video Walkthrough](http://bit.ly/46wphbz)  
 > <sub>Plan garden layouts, manage crops, and use a canvas-based sketch tool with companion planting guides.</sub>  
@@ -42,7 +39,5 @@
 > <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 > <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white&label=Django%20REST%20Framework" />
 > <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <!-- your project cards here -->
 
-
-
+<sub>───────────────────────────────────────────────────</sub>
