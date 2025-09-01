@@ -32,7 +32,7 @@
 
 <sub>───────────────────────────────────────────────────</sub><br/>
 **🪴 Flourish Garden Planner (2021)** **Archived*
-> [Monorepo (Django/React)](https://github.com/ggroshans/django-react-garden-app) • [Video Walkthrough](http://bit.ly/46wphbz)  
+> [Video Walkthrough](http://bit.ly/46wphbz) • [Monorepo (Django/React)](https://github.com/ggroshans/django-react-garden-app)   
 > <sub>Plan garden layouts, manage crops, and use a canvas-based sketch tool with companion planting guides.</sub>  
 > <br/>
 > <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
