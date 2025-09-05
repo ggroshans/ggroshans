@@ -7,7 +7,7 @@
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
 <sub>───────────────────────────────────────────────────</sub><br/>
-**🎷 Jazz Album Discovery (2025)**  
+**🎷 Jazz of the Day (2025)**  
 > [Frontend (Angular)](https://github.com/ggroshans/fe-angular-random-jazz-album) • [Backend (.NET API)](https://github.com/ggroshans/api-dotnet-random-jazz-album)  
 > <sub>Daily random jazz album with Spotify ingest + GPT metadata enrichment stored in a persistent DB.</sub>  
 > <br/>
