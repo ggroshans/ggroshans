@@ -2,7 +2,7 @@
 🌎 Background in **Earth Sciences**  
 👨‍💻 Software Engineer in **.NET, Angular, Azure, SQL Server**  
 💻 Also experienced with **React, Vue, Node, Python (Django/Flask), GraphQL**  
-🤓 Currently exploring **Algorithms & System Design**  
+🤓 Currently exploring **System Design**  
 🏕️ Beyond code: 🎸 🎨 📚 🌯  
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
