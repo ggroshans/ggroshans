@@ -3,7 +3,7 @@
 👨‍💻 Software Engineer in **.NET, Angular, Azure, SQL Server**  
 💻 Also experienced with **React, Vue, Node, Python (Django/Flask), GraphQL**  
 🤓 Currently exploring **System Design**  
-🏕️ Beyond code: 🎸 🎨 📚 🌯  
+🏕️ Beyond code: 🎸 📚 🎨 🌯 <br/>
 📫 Reach me at: **garthgroshansjr@gmail.com**
 <br/><br/>
 <sub>───────────────────────────────────────────────────</sub><br/>
