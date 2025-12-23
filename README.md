@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Garth 
 🌎 Background in **Earth Sciences**  
 👨‍💻 Software Engineer in **.NET, Blazor, Maui, Azure, Postgres**  
-💻 Also experienced with **React, Vue, Angular, Node, Flask, Django, GraphQL**  
+💻 Also experienced with **React, Vue, Angular, Express.js, Flask, GraphQL**  
 🤓 Currently exploring **System Design**  
 🏕️ Beyond code: 🎸 📚 🏕️ 🎨 🌯 <br/>
 📫 Reach me at: **garthgroshansjr@gmail.com**
